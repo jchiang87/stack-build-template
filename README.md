@@ -1,8 +1,8 @@
 # desc-package-template
 
-[cookiecutter](https://cookiecutter.readthedocs.org/en/latest/) template for DESC Python packages.
+[cookiecutter](https://cookiecutter.readthedocs.org/en/latest/) template for DESC packages that are built against the LSST Stack.
 
 ### Usage:
 ```
-cookiecutter https://github.com/jchiang87/desc-package-template.git
+cookiecutter https://github.com/jchiang87/stack-build-template.git
 ```
