@@ -1,3 +1,4 @@
 # -*- python -*-
 from lsst.sconsUtils import scripts
-scripts.BasicSConstruct("{{cookiecutter.repo_name}}")
+scripts.BasicSConstruct("{{cookiecutter.repo_name}}",
+                        versionModuleName='python/desc/{{cookiecutter.repo_name|lower}}/version.py')
