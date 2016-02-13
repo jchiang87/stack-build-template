@@ -1,10 +1,12 @@
 # The {{cookiecutter.repo_name}} package
 
-## Set-up and testing
+## Set-up, building, and testing
 From bash
 ```
-$ source <{{cookiecutter.repo_name}} install directory>/setup/setup.sh
-$ nosetests <{{cookiecutter.repo_name}} install directory>
+$ cd <{{cookiecutter.repo_name}} install directory>
+$ source setup/setup.sh
+$ scons opt=3
+$ nosetests
 ```
 
 ## Demo
