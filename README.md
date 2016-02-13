@@ -1,4 +1,4 @@
-# desc-package-template
+# stack-build-template
 
 [cookiecutter](https://cookiecutter.readthedocs.org/en/latest/) template for DESC packages that are built against the LSST Stack.
 
