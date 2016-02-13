@@ -3,5 +3,5 @@
     "repo_owner": "First Last",
     "github_username": "",
     "affiliation": "",
-    "lsstsw_install_directory" : ""
+    "lsstsw_install_directory" : "/nfs/farm/g/desc/u1/LSST_Stack/lsstsw"
 }
